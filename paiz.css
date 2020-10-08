@@ -1,0 +1,42 @@
+html {
+  font-family: verdana;
+  font color: #7466;
+}
+
+
+p.ex1 {
+  border: 5px solid green; 
+  padding: 35px;
+  background-color: #687887;
+
+}
+
+p.ex2 {
+  border: 5px solid green; 
+  padding: 35px;
+  background-color: #687887;
+
+}
+
+p.ex3 {
+  border: 5px solid green; 
+  padding: 10px;
+  background-color: #FF4200;
+
+}
+
+p.ex4 {
+  border: 5px solid green; 
+  padding: 35px;
+  background-color: #687887;
+
+}
+ul{
+	border: 5px solid blue; 
+  padding: 35px;
+  background-color: #687887;
+
+}
+h1.ex1{
+	font color: white;
+}
